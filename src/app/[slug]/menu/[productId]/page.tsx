@@ -9,11 +9,24 @@ interface ProductPageProps {
 
 const ProductPage = async ({params}: ProductPageProps) => {
     const { slug ,productId } = await params;
-    const product = await db.product.findUnique({where: {id: productId}, include: {restaurant: {select: {avatarImageUrl: true, name: true, slug: true}}}});
+    const product = await db.product.findUnique({where: {id: productId}, 
+        include: {
+            restaurant: {
+                select: {
+                    avatarImageUrl: true, 
+                    name: true, 
+                    slug: true,
+                }
+            }
+        }
+    }
+    );
     if(!product) 
         return notFound();
-    if(product.restaurant.slug.toLowerCase() !== slug.toUpperCase())
+
+    if(product.restaurant.slug.toLowerCase() === slug.toUpperCase())
         return notFound();
+
     return(
         <div className="flex h-full flex-col">
             <ProductHeader product={product}/>
