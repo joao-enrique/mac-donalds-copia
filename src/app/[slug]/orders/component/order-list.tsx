@@ -7,7 +7,7 @@ import { ChevronLeftIcon, ScrollTextIcon } from "lucide-react";
 import Image from "next/image";
 
 interface OrderListProps{
-    order: Prisma.OrderGetPayload<{
+    orders: Prisma.OrderGetPayload<{
         include:{
             restaurant:{
                 select:{

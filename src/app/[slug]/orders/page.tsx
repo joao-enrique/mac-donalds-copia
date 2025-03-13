@@ -39,7 +39,7 @@ const OrdersPage = async ({searchParams}: OrdersPageProps) => {
             }
         }
     })
-    return ( <OrderList order={orders} /> );
+    return ( <OrderList orders={orders} /> );
 }
  
 export default OrdersPage;
