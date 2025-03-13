@@ -66,6 +66,8 @@ model Order {
   updateAt          DateTime          @updatedAt
 
   OrderProducts OrderProduct[]
+  customerName  String
+  customerCpf   String
 }
 
 model OrderProduct {
