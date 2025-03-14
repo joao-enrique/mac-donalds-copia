@@ -2,7 +2,7 @@
   <img height="200" src="https://media-hosting.imagekit.io//0f8e900d76f145e9/Design%20sem%20nome%20(1).png?Expires=1836565403&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=GDSpwdWr1mJrAnfWJoFWv7YP55qfHs2n~yaSumTmsve5OnAQkZVh5p8XkZuEl8IMWMTkDkpAna7EOEKAu-Ucb3TukflNpveOpSfqipZO0i1P~drTJRaYGboQLHeyzVl1qM0WlKEBDZXaILL-Hn8D3uaRfbsTDpXdouQeiy37hZQxqBBe9ZpHk3P0-Ds4~PaiJ5HAcaEBS2NByZpkpccy6zCH-qhcs1TPz7F339BJ8h7YyW6Q5pQdeVV3SOic03-Uef2J3XSlhSRd1fQT37IEKxFu4gVYXEfXlIY6NBWlam2~WXm4yz0zhkMmwLIXpnVRPNdEDc1qzamOkinNfIj9sQ__"  />
 </div>
 
-<h4 align="center"><a href="https://mac-donalds-copia.vercel.app/fsw-donalds">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://mac-donalds-copia.vercel.app/fsw-donalds" target="_blank">Confira o projeto aqui</a></h4>
 
 ###
 
