@@ -1,61 +1,46 @@
-<h1 align="center">🍔 Cópia do mac-donalds 🍔</h2>
-
-###
+<h1 align="center">🍔 Cópia do Mac-Donalds 🍔</h1>
 
 <div align="center">
-  <img height="200" src="mac-donalds-preview.png"  />
+  <img src="mac-donalds-preview.png" height="200" alt="Preview do projeto" />
 </div>
 
-<h4 align="center"><a href="https://mac-donalds-copia.vercel.app/fsw-donalds" target="_blank">Confira o projeto aqui</a></h4>
+<h4 align="center">
+  <a href="https://mac-donalds-copia.vercel.app/fsw-donalds" target="_blank">
+    Confira o projeto aqui
+  </a>
+</h4>
 
-###
+---
 
-<p align="left">Um projeto pessoal desenvolvido por mim onde eu fiz uma cópia do aplicativo do famoso restaurante conhecido como Mac-donalds</p>
+## 🔖 Sobre o projeto
 
-###
+Este é um projeto pessoal onde criei uma **cópia do aplicativo do famoso restaurante Mac-Donalds**, com foco em layout moderno, responsivo e funcional. O objetivo principal foi praticar o uso de tecnologias modernas de front-end e back-end, além da integração com banco de dados.
 
-<h2 align="left">💻 Tecnologias utilizadas:</h2>
+---
 
-###
+## 💻 Tecnologias utilizadas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </div>
 
-###
+---
 
-<h2 align="left">🎯 Pontos principais no projeto</h2>
+## 🎯 Principais funcionalidades
 
-###
+- **Rotas dinâmicas**: Navegação entre páginas usando o sistema de rotas do Next.js.  
+- **Design moderno e responsivo**: Layout desenvolvido com Tailwind CSS e Shadcn.  
+- **Banco de dados**: Implementação com Prisma, MySQL e Neon, otimizando consultas e persistência de dados.  
+- **Componentização e otimização**: Uso de React e Next.js para criar componentes reutilizáveis e organizar layouts de forma eficiente.
 
-<p align="left">📜 Utilização de rotas(router) para dinamismo entre as telas<br><br>👨‍💻 Utilização de shadcn e tailwind para criação de layout moderno e responivo<br><br>🦾 Utilização do prisma e Neon para criar, otimizar e enviar banco de dados desenvolvido usando mysql<br><br>📱 Utilização do react e next.js para criação de componentes, organização dos layouts e rotas, e otimização e design da página.</p>
-
-###
-
-<p align="left">📌 Quer trocar uma ideia ou colaborar?</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-enrique/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/devlag_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Devlag" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
+---
