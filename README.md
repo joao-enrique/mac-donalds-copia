@@ -2,6 +2,12 @@
 
 ![Demo App](preview-for-project.png)
 
+<div align="center">
+    <a href="https://mac-donalds-copia.vercel.app/fsw-donalds" target="_blank"> 
+        <img src="button.png" alt="linkedin logo" /> 
+    </a> 
+</div>
+
 <p align="left">
   <b>Um clone do McDonald's construído com foco em escalabilidade, performance e boas práticas, utilizando as tecnologias mais modernas do ecossistema web.</b>
 </p>
