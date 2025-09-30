@@ -1,10 +1,14 @@
 <h1 align="left">🍔 Clone do McDonald's com PERN + Prisma ✨</h1>
 
-![Demo App](preview-for-project.png)
+<div align="center">
+    <a href="https://mac-donalds-copia.vercel.app/fsw-donalds" target="_blank"> 
+        <img src="preview-for-project.png" alt="Button image" /> 
+    </a> 
+</div>
 
 <div align="center">
     <a href="https://mac-donalds-copia.vercel.app/fsw-donalds" target="_blank"> 
-        <img src="button.png" alt="linkedin logo" /> 
+        <img src="button.png" alt="Button image" /> 
     </a> 
 </div>
 
