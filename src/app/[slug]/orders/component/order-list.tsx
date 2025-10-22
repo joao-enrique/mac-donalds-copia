@@ -1,3 +1,5 @@
+"use client"
+
 import { formatNumber } from "@/app/helpers/format-number";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -5,6 +7,7 @@ import { Separator } from "@/components/ui/separator";
 import { OrderStatus, Prisma } from "@prisma/client";
 import { ChevronLeftIcon, ScrollTextIcon } from "lucide-react";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 
 interface OrderListProps{
     orders: Prisma.OrderGetPayload<{
@@ -32,9 +35,10 @@ const getStatuslabel = ( status: OrderStatus) => {
 }
 
 const OrderList = ({orders}: OrderListProps) => {
+    const router = useRouter();
     return ( 
         <div className="space-y-6 p-6">
-            <Button size="icon" variant="secondary" className="rounded-full">
+            <Button size="icon" variant="secondary" className="rounded-full" onClick={() => router.back()}>
                 <ChevronLeftIcon />
             </Button>
             <div className="flex items-center gap-3">

@@ -22,7 +22,7 @@ const RestaurantHeader = ({restaurant} : RestaurantHeaderPageProps) => {
         
         <Image src={restaurant?.coverImageUrl} alt={RestaurantHeader.name} fill className="object-cover"/>
 
-        <Button variant="secondary" size="icon" className="absolute right-4 top-4 z-50 rounded-full">
+        <Button variant="secondary" size="icon" className="absolute right-4 top-4 z-50 rounded-full" onClick={() => router.push("/fsw-donalds/orders")}>
             <ScrollTextIcon/>
         </Button>
     </div>
