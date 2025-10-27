@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://mac-donalds-copia.vercel.app/fsw-donalds" target="_blank"> 
-        [url=https://ibb.co/chzwrBZd][img]https://i.ibb.co/s9LCVfNr/Thumbnail.png[/img][/url]
+         <img src="https://i.ibb.co/WvS02hM1/Thumbnail.png" alt="Preview do app" />
     </a> 
 </div>
 
@@ -103,6 +103,7 @@ Feito com 💛 por João Enrique
     </a> 
 
 </div>
+
 
 
 
