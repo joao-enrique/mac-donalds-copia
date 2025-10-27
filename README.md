@@ -98,16 +98,8 @@ Feito com 💛 por João Enrique
     <a href="https://www.linkedin.com/in/joao-enrique-dev/" target="_blank"> 
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" /> 
     </a> 
-    <a href="https://www.youtube.com/@joaocodedev" target="_blank"> 
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube logo" /> 
-    </a> 
     <a href="https://jedev1.itch.io/" target="_blank"> 
         <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch logo" /> 
     </a> 
-    <a href="https://www.instagram.com/joao__dev/" target="_blank"> 
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" /> 
-    </a> 
-    <a href="https://www.tiktok.com/@joao__code" target="_blank"> 
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok logo" /> 
-    </a> 
+
 </div>
