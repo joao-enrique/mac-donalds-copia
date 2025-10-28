@@ -76,10 +76,10 @@ O frontend estará disponível em: http://localhost:3000 (Next.js já usa essa p
 
 # ✅ Funcionalidades
 
-- 🍟 Menu interativo com produtos estilo McDonald's
-- 🛒 Carrinho de compras dinâmico
-- 💳 Simulação de checkout
-- 📦 Integração entre frontend e backend
+- 🍟 Escolha do Método de Consumo
+- 🛒 Visualização do Menu
+- 💳 Acompanhamento de Pedidos (por CPF)
+- 📦 Detalhes e Configuração do Produto
 - 🔍 Persistência de dados em PostgreSQL via Prisma
 
 # 📜 Licença
@@ -97,6 +97,7 @@ Feito com 💛 por João Enrique
     </a> 
 
 </div>
+
 
 
 
